@@ -8,6 +8,7 @@ public class PhotocloneApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(PhotocloneApplication.class, args);
+		//2
 	}
 
 }
